@@ -1,4 +1,4 @@
-### Hi, I'm Ness 👋
+### Hi, I'm Janessa 👋
 
 Second-year BSc Information Technology student (software engineering focus), 
 learning Python, SQL, and web development.
